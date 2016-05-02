@@ -1,0 +1,80 @@
+#+title:  2016 Summer Internship Program @ VIRTUAL LABS
+#+SETUPFILE: ./org-templates/level-0.org
+
+
+* Interns, Projects & Mentors
+
+  |-----+-------------------+----------------+------------+---------+-----------------|
+  | No. | Candidate Name    | Affiliation    | GitProfile | Work    | Project         |
+  |     |                   |                |            | Log     | Mentor          |
+  |     |                   |                |            |         |                 |
+  |-----+-------------------+----------------+------------+---------+-----------------|
+  |  1. | Raghav Mittal     | NIIT Rajasthan | [[https://github.com/raghavmittal101][link]]       | link to | Renarration     |
+  |     |                   |                |            | given   | Venkatesh/      |
+  |     |                   |                |            |         | [[https://github.com/saigollapudi][Sai Gollapudi]]   |
+  |-----+-------------------+----------------+------------+---------+-----------------|
+  |  2. | Raj Manvar        | IIITH          | [[https://github.com/rajma996][link]]       |         | Renarration     |
+  |     |                   |                |            |         | Venkatesh/      |
+  |     |                   |                |            |         | [[https://github.com/saigollapudi][Sai Gollapudi]]   |
+  |-----+-------------------+----------------+------------+---------+-----------------|
+  |  3. | Sasank Viswanatha | MEC            | [[https://github.com/shashankviswanadha][link]]       |         | Authentication  |
+  |     |                   |                |            |         | [[https://github.com/travula][Thirumal]]        |
+  |-----+-------------------+----------------+------------+---------+-----------------|
+  |  4. | Srivalya Elluru   | NITK           | [[https://github.com/Siri-NITK][link]]       |         | [[https://github.com/vlead/vlabs-dashboard][VLABS Dashboard]] |
+  |     |                   |                |            |         | [[https://github.com/travula][Thirumal]]        |
+  |-----+-------------------+----------------+------------+---------+-----------------|
+  |  5. | Ammanamanchi      | NITK           | [[https://github.com/namrathadeepthi/][link]]       |         | Integration     |
+  |     | Namratha Deepthi  |                |            |         | Lalit           |
+  |     |                   |                |            |         |                 |
+  |-----+-------------------+----------------+------------+---------+-----------------|
+  |  6. | Rama Shanbhag     | NITK           | [[https://github.com/Ramas31][link]]       |         | Integratiom     |
+  |     |                   |                |            |         | Lalit           |
+  |     |                   |                |            |         |                 |
+  |-----+-------------------+----------------+------------+---------+-----------------|
+  |  7. | Harsha Vattem     | IIT KGP        | [[https://github.com/harshavattem][link]]       |         | Javascript      |
+  |     |                   |                |            |         | Venkatesh       |
+  |     |                   |                |            |         |                 |
+  |     |                   |                |            |         |                 |
+  |-----+-------------------+----------------+------------+---------+-----------------|
+  |     |                   |                |            |         | Javascript      |
+  |  8. | Anshuman          | IIT M          |            |         | Venkatesh       |
+  |     |                   |                |            |         |                 |
+  |-----+-------------------+----------------+------------+---------+-----------------|
+
+* On Boarding
+
+** Logistics
+
+   For all logistics inquiries, the contact person is B. Sravanthi and she is
+   reached at 8897487405.
+
+   + Boarding
+     Contact Details
+     + Name: 
+     + Phone: 
+     |------+-------------+-------------|
+     | Name | Hostel Name | Room Number |
+     |------+-------------+-------------|
+     |      |             |             |
+
+   + Food
+
+** Policies
+   + Reporting Hours :: 9am-6pm (9 hrs including 1 hr lunch break)
+   + Leaves :: No leaves are granted unless it is an emergency.  The approval
+        for an emergency leave is taken from Prof. Venkatesh Choppella.
+   + Work status reporting
+     - Each intern creates an own repository named =vlabs-internship=
+     - Each intern provides a daily log of work done in this [[./daily-work-log-template.org][format]].  The
+       report is checked in to the intern's own repository
+     should be checked in at EOD in RAs repository.
+   - Two presentations would be given by each RA,
+     tentatively on 12th June and 12th July on work done
+     till the given date.  
+** Work review
+   - Mentor will review the report on a daily basis
+
+
+   
+     
+     
