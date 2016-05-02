@@ -1,0 +1,12 @@
+#+TITLE: README
+#+AUTHOR: VLEAD
+#+DATE: [2016-04-28 Thu]
+#+PROPERTY: results output
+#+PROPERTY: exports code
+#+options: ^:nil
+
+
+* Pit Shop for all Interns
+
+  This repository will hold information to help interns to get on-board to
+  Virtual Labs processes, practices,
