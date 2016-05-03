@@ -2,44 +2,87 @@
 #+SETUPFILE: ./org-templates/level-0.org
 
 
-* Interns, Projects & Mentors
+* Projects, Mentors and Interns
 
-  |-----+-------------------+----------------+------------+---------+-----------------|
-  | No. | Candidate Name    | Affiliation    | GitProfile | Work    | Project         |
-  |     |                   |                |            | Log     | Mentor          |
-  |     |                   |                |            |         |                 |
-  |-----+-------------------+----------------+------------+---------+-----------------|
-  |  1. | Raghav Mittal     | NIIT Rajasthan | [[https://github.com/raghavmittal101][link]]       | link to | Renarration     |
-  |     |                   |                |            | given   | Venkatesh/      |
-  |     |                   |                |            |         | [[https://github.com/saigollapudi][Sai Gollapudi]]   |
-  |-----+-------------------+----------------+------------+---------+-----------------|
-  |  2. | Raj Manvar        | IIITH          | [[https://github.com/rajma996][link]]       |         | Renarration     |
-  |     |                   |                |            |         | Venkatesh/      |
-  |     |                   |                |            |         | [[https://github.com/saigollapudi][Sai Gollapudi]]   |
-  |-----+-------------------+----------------+------------+---------+-----------------|
-  |  3. | Sasank Viswanatha | MEC            | [[https://github.com/shashankviswanadha][link]]       |         | Authentication  |
-  |     |                   |                |            |         | [[https://github.com/travula][Thirumal]]        |
-  |-----+-------------------+----------------+------------+---------+-----------------|
-  |  4. | Srivalya Elluru   | NITK           | [[https://github.com/Siri-NITK][link]]       |         | [[https://github.com/vlead/vlabs-dashboard][VLABS Dashboard]] |
-  |     |                   |                |            |         | [[https://github.com/travula][Thirumal]]        |
-  |-----+-------------------+----------------+------------+---------+-----------------|
-  |  5. | Ammanamanchi      | NITK           | [[https://github.com/namrathadeepthi/][link]]       |         | Integration     |
-  |     | Namratha Deepthi  |                |            |         | Lalit           |
-  |     |                   |                |            |         |                 |
-  |-----+-------------------+----------------+------------+---------+-----------------|
-  |  6. | Rama Shanbhag     | NITK           | [[https://github.com/Ramas31][link]]       |         | Integratiom     |
-  |     |                   |                |            |         | Lalit           |
-  |     |                   |                |            |         |                 |
-  |-----+-------------------+----------------+------------+---------+-----------------|
-  |  7. | Harsha Vattem     | IIT KGP        | [[https://github.com/harshavattem][link]]       |         | Javascript      |
-  |     |                   |                |            |         | Venkatesh       |
-  |     |                   |                |            |         |                 |
-  |     |                   |                |            |         |                 |
-  |-----+-------------------+----------------+------------+---------+-----------------|
-  |     |                   |                |            |         | Javascript      |
-  |  8. | Anshuman          | IIT M          |            |         | Venkatesh       |
-  |     |                   |                |            |         |                 |
-  |-----+-------------------+----------------+------------+---------+-----------------|
+** Projects
+
+   |-------+-----------------------------------------------|
+   | S.no. | Project Name                                  |
+   |-------+-----------------------------------------------|
+   |    1. | Renarration                                   |
+   |-------+-----------------------------------------------|
+   |    2. | Authentication between different web services |
+   |-------+-----------------------------------------------|
+   |    3. | Virtual Lab Integration                       |
+   |-------+-----------------------------------------------|
+   |    4. | Experiment as a service                       |
+   |-------+-----------------------------------------------|
+   |    5. | Virtual Labs Dashboard                        |
+   |-------+-----------------------------------------------|
+   |    6. | Google Web Designer                           |
+   |-------+-----------------------------------------------|
+   |    7. | Google Course Builder                         |
+   |-------+-----------------------------------------------|
+   |    8. | Capacity Building for Big Data                |
+   |-------+-----------------------------------------------|
+
+** Mentors
+
+   |-------+--------------------|
+   | S.No. | Mentor             |
+   |-------+--------------------|
+   |    1. | Venkatesh Chopella |
+   |-------+--------------------|
+   |    2. | Sai Gollapudi      |
+   |-------+--------------------|
+   |    3. | Devi Prasad        |
+   |-------+--------------------|
+   |    4. | Thirumal Ravula    |
+   |-------+--------------------|
+
+** Interns
+
+   |-------+-------------------+----------------+------------+------+-----------------|
+   | S.No. | Candidate Name    | Affiliation    | GitProfile | Work | Project         |
+   |       |                   | & Branch, Year |            | Log  | Mentor          |
+   |-------+-------------------+----------------+------------+------+-----------------|
+   |    1. | Raghav Mittal     | NIIT Rajasthan | [[https://github.com/raghavmittal101][link]]       | [[https://github.com/raghavmittal101/vlabs-internship.git/src/daily-log.org][link]] | Renarration     |
+   |       |                   | B.Tech, CSE    |            |      | Venkatesh/      |
+   |       |                   | II Year        |            |      | [[https://github.com/saigollapudi][Sai Gollapudi]]   |
+   |-------+-------------------+----------------+------------+------+-----------------|
+   |    2. | Raj Manvar        | IIITH          | [[https://github.com/rajma996][link]]       | [[https://github.com/rajma996/vlabs-internship.git/src/daily-log.org][link]] | Renarration     |
+   |       |                   | B.Tech, CSE    |            |      | Venkatesh/      |
+   |       |                   | II Year        |            |      | [[https://github.com/saigollapudi][Sai Gollapudi]]   |
+   |-------+-------------------+----------------+------------+------+-----------------|
+   |    3. | Sasank Viswanatha | MEC            | [[https://github.com/shashankviswanadha][link]]       |      | Authentication  |
+   |       |                   | B.Tech, CSE    |            |      | [[https://github.com/travula][Thirumal]]        |
+   |       |                   | II Year        |            |      |                 |
+   |-------+-------------------+----------------+------------+------+-----------------|
+   |    4. | Srivalya Elluru   | NITK           | [[https://github.com/Siri-NITK][link]]       |      | [[https://github.com/vlead/vlabs-dashboard][VLABS Dashboard]] |
+   |       |                   | B.Tech, IT     |            |      | [[https://github.com/travula][Thirumal]]        |
+   |       |                   | II Year        |            |      |                 |
+   |-------+-------------------+----------------+------------+------+-----------------|
+   |    5. | Ammanamanchi      | NITK           | [[https://github.com/namrathadeepthi/][link]]       |      | Integration     |
+   |       | Namratha Deepthi  | B.Tech, IT     |            |      | Lalit           |
+   |       |                   | II Year        |            |      |                 |
+   |-------+-------------------+----------------+------------+------+-----------------|
+   |    6. | Rama Shanbhag     | NITK           | [[https://github.com/Ramas31][link]]       |      | Integratiom     |
+   |       |                   | B.Tech, IT     |            |      | Lalit           |
+   |       |                   | I Year         |            |      |                 |
+   |-------+-------------------+----------------+------------+------+-----------------|
+   |    7. | Harsha Vattem     | IIT KGP        | [[https://github.com/harshavattem][link]]       |      | Venkatesh       |
+   |       |                   | B.Tech, CSE    |            |      | Javascript      |
+   |       |                   | I Year         |            |      |                 |
+   |       |                   |                |            |      |                 |
+   |-------+-------------------+----------------+------------+------+-----------------|
+   |    8. | Anshuman          | IIT M          |            |      | Venkatesh       |
+   |       |                   | B.Tech, Mech   |            |      | Javascript      |
+   |       |                   | II Year        |            |      |                 |
+   |-------+-------------------+----------------+------------+------+-----------------|
+   |    9. | Dheeraj           | IIT M          |            |      |                 |
+   |       |                   | B.Tech, Mech   |            |      |                 |
+   |       |                   | II Year        |            |      |                 |
+   |-------+-------------------+----------------+------------+------+-----------------|
 
 * On Boarding
 
@@ -50,14 +93,23 @@
 
    + Boarding
      Contact Details
-     + Name: 
-     + Phone: 
+     - Name: 
+     - Phone: 
      |------+-------------+-------------|
      | Name | Hostel Name | Room Number |
      |------+-------------+-------------|
      |      |             |             |
 
-   + Food
+   + Food :: There are multiple canteens that serve tea and snacks and multiple
+        messes that serve breakfast, lunch and dinner on campus.
+
+   + LDAP Account
+
+     Contact Details
+     - Name: Ashay
+
+     Each intern is provided an LDAP account.  This account allows creation of
+     containers and VMs on Virtual Labs infrastructure.
 
 ** Policies
    + Reporting Hours :: 9am-6pm (9 hrs including 1 hr lunch break)
@@ -66,15 +118,66 @@
    + Work status reporting
      - Each intern creates an own repository named =vlabs-internship=
      - Each intern provides a daily log of work done in this [[./daily-work-log-template.org][format]].  The
-       report is checked in to the intern's own repository
-     should be checked in at EOD in RAs repository.
-   - Two presentations would be given by each RA,
-     tentatively on 12th June and 12th July on work done
-     till the given date.  
-** Work review
-   - Mentor will review the report on a daily basis
+       report(file: daily-log.org) is pushed to the individual's
+       =vlabs-internship= repository at the end of the day.
+   + Each intern make two presentations tentatively on [2016-06-13 Mon] and
+     [2016-07-14 Thu].  on work accomplished till that point in time.
+   + Each intern submits a final report as a document on his/her
+     accomplishments.
+   + Containers or VMs created on the Virtual Labs infrastructure are strictly
+     used only for the purpose of realization of the tasks assigned to the
+     intern.
 
+* Setting up IDE
+  Integrated development environment is set on the computer.  This involves
+  installing emacs, org and other packages.  Please refer to the [[documenttation]]
+  for setting up this environment.  
+
+** Bootcamp
+
+
+|-----------+---------------------------------+----------+-------+----------------|
+|      Date | Activity                        | Duration |       | Presenters     |
+|-----------+---------------------------------+----------+-------+----------------|
+|           |                                 |     From |    To |                |
+|-----------+---------------------------------+----------+-------+----------------|
+| 16.5.2016 | Inagural Meet- Welcome Address  |    09:00 |  9:30 | Venkatesh      |
+|-----------+---------------------------------+----------+-------+----------------|
+|           | Introductions by all            |    09:30 | 10:30 |                |
+|-----------+---------------------------------+----------+-------+----------------|
+|           | Setting up the Laptops          |    11:00 | 13:00 |                |
+|-----------+---------------------------------+----------+-------+----------------|
+|           | for Internship work Lunch       |    13:00 | 14:00 |                |
+|-----------+---------------------------------+----------+-------+----------------|
+|           | Git/Org/Emacs                   |    13:00 | 14:00 |                |
+|-----------+---------------------------------+----------+-------+----------------|
+|           | Daily Report Submission         |    17:00 | 17:15 |                |
+|-----------+---------------------------------+----------+-------+----------------|
+|           |                                 |          |       |                |
+|           |                                 |          |       |                |
+|           |                                 |          |       |                |
+|-----------+---------------------------------+----------+-------+----------------|
+| 17.5.2016 | Lecture- JavaScript and Objects |    09:00 | 13:00 | Prof Venkatesh |
+|-----------+---------------------------------+----------+-------+----------------|
+|           | Lunch                           |    13:00 | 14:00 |                |
+|-----------+---------------------------------+----------+-------+----------------|
+|           | Assignment on Morning session   |    14:00 | 17:00 |                |
+|-----------+---------------------------------+----------+-------+----------------|
+|           |                                 |          |       |                |
+|-----------+---------------------------------+----------+-------+----------------|
+| 18.5.2016 | Development Process Github      |    09:00 | 13:00 | Tirumal        |
+|-----------+---------------------------------+----------+-------+----------------|
+|           | Lunch                           |    13:00 | 14:00 |                |
+|           | Assignment on Morning session   |    14:00 | 17:00 |                |
+|           |                                 |          |       |                |
+| 19.5.2016 | Literate Programming            |    09:00 | 13:00 | Tirumal?       |
+|           | Lunch                           |    13:00 | 14:00 |                |
+|           | Assignment on Morning session   |    14:00 | 17:00 |                |
+|           |                                 |          |       |                |
+|           |                                 |          |       |                |
+| 20.5.2016 | Python Programming              |    09:00 | 13:00 | Tirumal?       |
+|           | Lunch                           |    13:00 | 14:00 |                |
+|           | Assignment on Morning session   |    14:00 | 17:00 |                |
+|-----------+---------------------------------+----------+-------+----------------|
 
    
-     
-     
