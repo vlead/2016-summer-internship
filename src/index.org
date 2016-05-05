@@ -99,11 +99,13 @@
    |       |                      | B.Tech, CSE    |            |      | Devi Prasad     |          |   |   |   |
    |       |                      | II Year        |            |      |                 |          |   |   |   |
    |-------+----------------------+----------------+------------+------+-----------------+----------+---+---+---|
-   |   13. | Jahanvi Ayyanik      | NIT Rourkela   | [[https://drive.google.com/file/d/0B2SY1XenIGH0NWVOSG9pYXFlbzFmWHZvVHhNUUdBZlFSMVAw/view][resume]] /   |      |                 |          |   |   |   |
-   |       |                      |                | [[jahnaviayyanki@gmail.com][email]] /    |      |                 |          |   |   |   |
-   |       |                      |                |  [[https://github.com/jahnavi925][link]]      |      |                 |          |   |   |   |
+   |   13. | Jahanvi Ayyanik      | NIT Rourkela   | [[https://github.com/jahnavi925][link]]       |      |                 |          |   |   |   |
+   |       |                      |                |            |      |                 |          |   |   |   |
    |-------+----------------------+----------------+------------+------+-----------------+----------+---+---+---|
-
+   |   14. | Meghana Bandaru      | NIT Durgapur   | [[https://github.com/MeghanaBandaru][link]]       |      |                 |          |   |   |   |
+   |       |                      |                |            |      | Designing UI    | SELECTED |   |   |   |
+   |-------+----------------------+----------------+------------+------+-----------------+----------+---+---+---|
+ 
 
 * On Boarding
 
