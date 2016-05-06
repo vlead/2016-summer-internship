@@ -4,7 +4,7 @@
 #+PROPERTY: results output
 #+PROPERTY: exports code
 #+SETUPFILE: ../org-templates/level-0.org
-#+options: ^:nil
+#+OPTIONS: ^:nil
 
 
 * Projects, Mentors and Interns
@@ -34,6 +34,7 @@
    |-------+-----------------------------------------------|
    |   10. | Docker Containers                             |
    |-------+-----------------------------------------------|
+
 
 ** Mentors
 
@@ -110,8 +111,8 @@
    |   13. | Jahanvi Ayyanik      | NIT            | [[https://github.com/jahnavi925][link]]       |      | Docker          |
    |       |                      | Rourkela       |            |      |                 |
    |-------+----------------------+----------------+------------+------+-----------------|
-   |   14. | Meghana Bandaru      | NIT            | [[https://github.com/MeghanaBandaru][link]]       |      |                 |
-   |       |                      | Durgapur       |            |      | AWS Lambda      |
+   |   14. | Meghana Bandaru      | NIT            | [[https://github.com/MeghanaBandaru][link]]       |      | AWS Lambda      |
+   |       |                      | Durgapur       |            |      |                 |
    |-------+----------------------+----------------+------------+------+-----------------|
  
 
@@ -146,20 +147,26 @@
 
 ** Policies
    + Reporting Hours :: 9am-6pm (9 hrs including 1 hr lunch break)
+
    + Leaves :: No leaves are granted unless it is an emergency.  The approval
         for an emergency leave is taken from Prof. Venkatesh Choppella.
-   + Work status reporting
+
+   + Work status reporting ::
      - Each intern creates an own repository named =vlabs-internship=
-     - Each intern provides a daily log of work done in this [[./daily-work-log-template.org][format]].  The
+     - Each intern provides a daily log of work done in this [[./daily-work-log-template.org][=format=]].  The
        report(file: daily-log.org) is pushed to the individual's
        =vlabs-internship= repository at the end of the day.
-   + Each intern make two presentations tentatively on [2016-06-13 Mon] and
-     [2016-07-14 Thu].  on work accomplished till that point in time.
-   + Each intern submits a final report as a document on his/her
-     accomplishments.
-   + Containers or VMs created on the Virtual Labs infrastructure are strictly
-     used only for the purpose of realization of the tasks assigned to the
-     intern.
+
+   + Presentations :: Each intern makes two presentations tentatively on
+        [2016-06-13 Mon] and [2016-07-14 Thu].  on work accomplished till that
+        point in time.
+
+   + Final Report :: Each intern submits a final report as a document on
+        his/her accomplishments.
+
+   + VMs & Containers :: Containers or VMs created on the Virtual Labs
+        infrastructure are strictly used only for the purpose of realization of
+        the tasks assigned to the intern.
 
 
 ** Setting up IDE
@@ -167,6 +174,7 @@
    Integrated development environment is setup on the computer.  This involves
    installing emacs, org, xchat and other packages.  Please refer to the
    [[https://github.com/vlead/vlead-onboarding/tree/develop][documentation]] for setting up this environment.
+
 
 * Boot Camp
 
@@ -211,30 +219,44 @@
   |                  |                                    |          |       |                |
   |                  |                                    |          |       |                |
   |------------------+------------------------------------+----------+-------+----------------|
-  | [2016-05-19 Thu] | Lecture- JavaScript and Objects    |    09:00 | 13:00 | Prof Venkatesh |
-  |------------------+------------------------------------+----------+-------+----------------|
-  |                  | Lunch                              |    13:00 | 14:00 |                |
-  |------------------+------------------------------------+----------+-------+----------------|
-  |                  | Assignment on Javascript           |    14:00 | 17:00 |                |
-  |------------------+------------------------------------+----------+-------+----------------|
-  |                  |                                    |          |       |                |
-  |                  |                                    |          |       |                |
-  |------------------+------------------------------------+----------+-------+----------------|
   | [2016-05-20 Fri] | Python Programming                 |    09:00 | 13:00 |                |
   |------------------+------------------------------------+----------+-------+----------------|
   |                  | Lunch                              |    13:00 | 14:00 |                |
   |------------------+------------------------------------+----------+-------+----------------|
   |                  | Assignment in Python               |    14:00 | 17:00 |                |
   |------------------+------------------------------------+----------+-------+----------------|
+  |                  |                                    |          |       |                |
+  |                  |                                    |          |       |                |
+  |------------------+------------------------------------+----------+-------+----------------|
+  | [2016-05-19 Thu] | Lecture- JavaScript and Objects    |    09:00 | 13:00 | Prof Venkatesh |
+  |------------------+------------------------------------+----------+-------+----------------|
+  |                  | Lunch                              |    13:00 | 14:00 |                |
+  |------------------+------------------------------------+----------+-------+----------------|
+  |                  | Assignment on Javascript           |    14:00 | 17:00 |                |
+  |------------------+------------------------------------+----------+-------+----------------|
 
    
 * Communication Channels
 
-  + Internet Relay Chat :: All interns will always be logged on to =#vlead=
-       channel during the internship programm.  All other engineers at Virtual
-       Labs are also on the same channel.  This [[http://www.irchelp.org/irchelp/irctutorial.html][tutorial]] lists all the
-       information in using IRC for communication.  [[http://xchat.org/][xchat]] is a chat client for
-       IRC.
+  + Internet Relay Chat :: All interns are always be logged on to =#vlead=
+       channel during the office hours of the internship programm.  All other
+       engineers at Virtual Labs are also on the same channel.  This [[http://www.irchelp.org/irchelp/irctutorial.html][tutorial]]
+       lists all the information in using IRC for communication.  [[http://xchat.org/][xchat]] is a
+       chat client for IRC.
 
-  + Mailing List :: =2016-summer-interns@vlabs.ac.in= is used for email
-       communication either betwwen the interns or with the Virtual Labs staff.
+  + Mailing Lists 
+
+    1. =2016-summer-interns@vlabs.ac.in= is used for email communication either
+       betwwen the interns or with the Virtual Labs staff.  This list is for
+       co-ordination, allocation of tasks etc. 
+
+    2. All technically related conversation is done using =engineers= mailing
+       list. This list is publicly [[http://vlabs.ac.in/engineers][=accessed=]].  Please subscribe to this group
+       and ensure =engineers@vlabs.ac.in= is copied for a wider audience.
+  
+* COMMENT Meeting Minutes
+  + Gender split
+  + How many need accommodation
+  + Switch the javascript with python
+  + Room, wireless and power chords
+  + Add engineers mailing list to communication channels.   
