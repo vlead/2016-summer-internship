@@ -35,14 +35,17 @@
    |-------+--------------------|
    | S.No. | Mentor             |
    |-------+--------------------|
-   |    1. | Venkatesh Chopella |
+   |    1. | [[https://www.iiit.ac.in/people/faculty/choppell/][Venkatesh Chopella]] |
    |-------+--------------------|
-   |    2. | Sai Gollapudi      |
+   |    2. | [[https://github.com/saigollapudi][Sai Gollapudi]]      |
    |-------+--------------------|
-   |    3. | Devi Prasad        |
+   |    3. | [[https://github.com/DeviPrasad][Devi Prasad]]        |
    |-------+--------------------|
-   |    4. | Thirumal Ravula    |
+   |    4. | [[http://cse.nitk.ac.in/faculty/mohit-p-tahiliani][Mohit Tahiliani]]    |
    |-------+--------------------|
+   |    5. | [[https://github.com/travula][Thirumal Ravula]]    |
+   |-------+--------------------|
+
 
 ** Interns
 
@@ -106,7 +109,7 @@
 ** Logistics
 
    For all logistics inquiries, the contact person is B. Sravanthi and she is
-   reached at 8897487405.
+   reached at 040-
 
    + Boarding
      Contact Details
@@ -128,6 +131,7 @@
      Each intern is provided an LDAP account.  This account allows creation of
      containers and VMs on Virtual Labs infrastructure.
 
+
 ** Policies
    + Reporting Hours :: 9am-6pm (9 hrs including 1 hr lunch break)
    + Leaves :: No leaves are granted unless it is an emergency.  The approval
@@ -146,10 +150,12 @@
      intern.
 
 
-* Setting up IDE
-  Integrated development environment is set on the computer.  This involves
-  installing emacs, org and other packages.  Please refer to the [[documenttation]]
-  for setting up this environment.  
+** Setting up IDE
+
+   Integrated development environment is setup on the computer.  This involves
+   installing emacs, org, xchat and other packages.  Please refer to the
+   [[documenttation]] for setting up this environment.
+
 
 * Boot Camp
 
@@ -211,3 +217,15 @@
   |------------------+------------------------------------+----------+-------+----------------|
 
    
+* Communication Channels
+
+  + Internet Relay Chat :: All interns will always be logged on to =#vlead=
+       channel during the internship programm.  All other engineers at Virtual
+       Labs are also on the same channel.  This [[http://www.irchelp.org/irchelp/irctutorial.html][tutorial]] lists all the
+       information in using IRC for communication.  [[http://xchat.org/][xchat]] is a chat client for
+       IRC.
+
+  + Mailing List :: =2016-summer-interns@vlabs.ac.in= is used for email
+       communication either betwwen the interns or with the Virtual Labs staff.
+
+
