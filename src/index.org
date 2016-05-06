@@ -244,13 +244,13 @@
        lists all the information in using IRC for communication.  [[http://xchat.org/][xchat]] is a
        chat client for IRC.
 
-  + Mailing Lists 
+  + Mailing Lists ::
 
     1. =2016-summer-interns@vlabs.ac.in= is used for email communication either
        betwwen the interns or with the Virtual Labs staff.  This list is for
        co-ordination, allocation of tasks etc. 
 
-    2. All technically related conversation is done using =engineers= mailing
+    2. All technically related conversation is done using [[http://vlabs.ac.in/engineers][=engineers=]] mailing
        list. This list is publicly [[http://vlabs.ac.in/engineers][=accessed=]].  Please subscribe to this group
        and ensure =engineers@vlabs.ac.in= is copied for a wider audience.
   
