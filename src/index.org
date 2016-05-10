@@ -158,7 +158,7 @@ installing emacs, org, xchat and other packages.  Please refer to the
 
 + Internet Relay Chat 
 All interns should be always logged on to =#vlead= channel during the
-office hours of the internship programm.  All other engineers 
+office hours of the internship programme.  All other engineers 
 at Virtual Labs would be also on the same channel. This [[http://www.irchelp.org/irchelp/irctutorial.html][tutorial]]
 lists all the information in using IRC for communication.
 [[http://xchat.org/][xchat]] is a chat client for IRC.
@@ -166,7 +166,7 @@ lists all the information in using IRC for communication.
 + Mailing List
 
 1. =2016-summer-interns@vlabs.ac.in= should be used for email communication either
-betwwen the interns or with the Virtual Labs staff. This list is for
+between the interns or with the Virtual Labs staff. This list is for
 co-ordination, allocation of tasks etc.
 
 2. All technically related conversation should be done using [[http://vlabs.ac.in/engineers][=engineers=]] mailing
