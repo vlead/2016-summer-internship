@@ -15,7 +15,7 @@ Engineering and Architecture Division (VLEAD), IIIT Hyderabad from
 * About VLEAD 
 Virtual Labs Engineering and Architecture Division is the central engineering team of Virtual Labs
 that takes cares of both the research and development needs of Virtual
-laboratories. VLEAD¡¯s mandate is to design and architect the implementation
+laboratories. VLEADÂ¡Â¯s mandate is to design and architect the implementation
 framework for Virtual Labs, providing all kinds of infrastructure
 support and services to lab developers. Virtual Labs is an initiative by MHRD under NMEICT. 
 Its objective is to make engineering education engaging, enjoyable, immersive and online.
@@ -82,7 +82,7 @@ tecnological development world wide.
    |       |                      | B.Tech, Mech   |            |      |                 |                           |
    |       |                      | II Year        |            |      |                 |                           |
    |-------+----------------------+----------------+------------+------+-----------------+---------------------------|
-   |    9. | Dheeraj              | IIT M          |            |      |                 | Prof. Venkatesh Choppell  |
+   |    9. | Dheeraj              | IIT M          |            |      |                 | Prof. Venkatesh Choppella  |
    |       |                      | B.Tech, Mech   |            |      | Javascript      |                           |
    |       |                      | II Year        |            |      |                 |                           |
    |-------+----------------------+----------------+------------+------+-----------------+---------------------------|
