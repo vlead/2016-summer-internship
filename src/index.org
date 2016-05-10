@@ -26,7 +26,7 @@ Its objective is to make engineering education engaging, enjoyable, immersive an
 + End Date - 15-07-2016.
 
 ** Programme Aims 
-+ Provide interns with opportunity to gain practical work experience in line with their studies or interests, and expose them to fast paced tecnological development world wide.
++ Provide interns with opportunity to gain practical work experience in line with their studies or interests, and expose them to fast paced technological development world wide.
 + Find creative solutions for making system, process or design efficient and sustainable.
 
 ** Project Areas
