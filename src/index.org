@@ -11,7 +11,6 @@ Summer Internship 2016 programme will be held at Virtual Labs
 Engineering and Architecture Division (VLEAD), IIIT Hyderabad from
 16-05-2016 to 15-07-2016.
 
-
 * About VLEAD 
 Virtual Labs Engineering and Architecture Division is the central engineering team of Virtual Labs
 that takes cares of both the research and development needs of Virtual
@@ -27,8 +26,7 @@ Its objective is to make engineering education engaging, enjoyable, immersive an
 + End Date - 15-07-2016.
 
 ** Programme Aims 
-+ Provide interns with opportunity to gain practical work experience in line with their studies or interests, and expose them to fast paced
-tecnological development world wide.
++ Provide interns with opportunity to gain practical work experience in line with their studies or interests, and expose them to fast paced tecnological development world wide.
 + Find creative solutions for making system, process or design efficient and sustainable.
 
 ** Project Areas
@@ -106,10 +104,9 @@ tecnological development world wide.
    |-------+----------------------+----------------+------------+------+-----------------+---------------------------|
  
 ** Logistics
-*** Accomadation
-Accomadation will be arranged in the IIIT-H hostels for all the interns who have requested for boarding facilities.
-+ Contact Details
-For all logistics inquiries, the contact person is B. Sravanthi and she can be reached at 040-66531592.
+*** Accommodation
+Accommodation will be arranged in the IIIT-H hostels for all the interns who have requested for boarding facilities.
++ Contact Details - For all logistics inquiries, the contact person is B. Sravanthi and she can be reached at 040-66531592.
 - Name: Hostel Admins
 - Phone: 040-6653-1288 ( Bakul Nivas, Boys Hostel)
 - Phone: 040-6653-1173 ( Parul Nivas, Girls Hostel)
@@ -143,14 +140,8 @@ Please follow the below instructions daily during checking-in and checking-out t
         point in time. 
 
 + Final Report :: Each intern should submit a final report as a document detailing the work accomplished during the internship.
-      
-
-
-
-
-+ VMs & Containers :: Containers or VMs created on the Virtual Labs
-        infrastructure are strictly used only for the purpose of realization of
-        the tasks assigned to the intern.
+   
++ VMs & Containers :: Containers or VMs created on the Virtual Labs infrastructure are strictly used only for the purpose of realization of the tasks assigned to the intern.
 
 ** Accounts and IDE setup 
 
