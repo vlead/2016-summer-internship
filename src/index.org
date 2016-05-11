@@ -211,3 +211,19 @@ Architecture Division (VLEAD), IIIT Hyderabad from 16-05-2016 to 15-07-2016.
   |                  | Assignment on Javascript           |    14:00 | 17:00 |                |
   |------------------+------------------------------------+----------+-------+----------------|
 
+* COMMENT Meeting Minutes
+** Earlier Meeting
+  + Gender split
+  + How many need accommodation
+  + Switch the javascript with python
+  + Room, wireless and power chords -
+  + Add engineers mailing list to communication channels.   
+
+** [2016-05-10 Tue]
+   + A poster at the end of the internship.
+   + What do we do with non performing interns?
+     - Give them more mechanical tasks
+   + Tea and Snacks for the first three days
+   + Lunch on first day and last day of presentations.
+   + Send out an email to Madhu about the romm - B306, room above Virtual Labs
+        :: Ravi
