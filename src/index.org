@@ -7,39 +7,43 @@
 #+OPTIONS: ^:nil
 
 
-Summer Internship 2016 programme will be held at Virtual Labs
-Engineering and Architecture Division (VLEAD), IIIT Hyderabad from
-16-05-2016 to 15-07-2016.
+Summer Internship 2016 programme will be held at Virtual Labs Engineering and
+Architecture Division (VLEAD), IIIT Hyderabad from 16-05-2016 to 15-07-2016.
 
 * About VLEAD 
-Virtual Labs Engineering and Architecture Division is the central engineering team of Virtual Labs
-that takes cares of both the research and development needs of Virtual
-laboratories. VLEAD's mandate is to design and architect the implementation
-framework for Virtual Labs, providing all kinds of infrastructure
-support and services to lab developers. Virtual Labs is an initiative by MHRD under NMEICT. 
-Its objective is to make engineering education engaging, enjoyable, immersive and online.
+  Virtual Labs Engineering and Architecture Division is the central engineering
+  team of Virtual Labs that takes cares of both the research and development
+  needs of Virtual laboratories. VLEAD's mandate is to design and architect the
+  implementation framework for Virtual Labs, providing all kinds of
+  infrastructure support and services to lab developers. Virtual Labs is an
+  initiative by MHRD under NMEICT.  Its objective is to make engineering
+  education engaging, enjoyable, immersive and online.
 
 * Program Details
 ** Venue, Date and Time
-+ Venue - Virtual Labs Engineering and Architecture Division (VLEAD), IIIT-Hyderabad
-+ Start Date - 16-05-2016
-+ End Date - 15-07-2016.
+   + Venue - Virtual Labs Engineering and Architecture Division (VLEAD),
+     IIIT-Hyderabad
+   + Start Date - 16-05-2016
+   + End Date - 15-07-2016.
 
 ** Program Aims 
-+ Provide interns with opportunity to gain practical work experience in line with their studies or interests, and expose them to fast paced technological development world wide.
-+ Find creative solutions for making system, process or design efficient and sustainable.
+   + Provide interns with opportunity to gain practical work experience in line
+     with their studies or interests, and expose them to fast paced
+     technological development world wide.
+   + Find creative solutions for making system, process or design efficient and
+     sustainable.
 
 ** Project Areas
-+ Renarration                                            
-+ Authentication between different web services        
-+ Virtual Lab Integration                      
-+ Experiment as a service                      
-+ Virtual Labs Dashboard                       
-+ Google Web Designer                          
-+ Google Course Builder                        
-+ Capacity Building for Big Data               
-+ AWS Lambda                                   
-+ Docker Containers                            
+   + Renarration                                            
+   + Authentication between different web services        
+   + Virtual Lab Integration                      
+   + Experiment as a service                      
+   + Virtual Labs Dashboard                       
+   + Google Web Designer                          
+   + Google Course Builder                        
+   + Capacity Building for Big Data               
+   + AWS Lambda                                   
+   + Docker Containers                            
 
 ** Interns and Mentors
 
@@ -77,71 +81,76 @@ Its objective is to make engineering education engaging, enjoyable, immersive an
  
 ** Logistics
 *** Accommodation
-Accommodation will be arranged in the IIIT-H hostels for all the interns who have requested for boarding facilities.
-+ Contact Details - For all logistics inquiries, the contact person is B. Sravanthi and she can be reached at 040-66531592.
-- Name: Hostel Admins
-- Phone: 040-6653-1288 ( Bakul Nivas, Boys Hostel)
-- Phone: 040-6653-1173 ( Parul Nivas, Girls Hostel)
+    Accommodation will be arranged in the IIIT-H hostels for all the interns
+    who have requested for boarding facilities.
+    + Contact Details :: For all logistics inquiries, the contact person is
+      B. Sravanthi and she can be reached at 040-66531592.
+      - Name: Hostel Admins
+      - Phone: 040-6653-1288 ( Bakul Nivas, Boys Hostel)
+      - Phone: 040-6653-1173 ( Parul Nivas, Girls Hostel)
 
 *** Dining
-There are multiple canteens and messes that serve breakfast, snacks, lunch and dinner inside campus.
-Also other options available in the neighbourhood area around IIIT-H campus.
+    There are multiple canteens and messes that serve breakfast, snacks, lunch
+    and dinner inside campus.  Also other options available in the
+    neighbourhood area around IIIT-H campus.
 
 *** Policies 
-+ Reporting Hours :: 9am-6pm (9 hrs including 1 hr lunch break)
-Interns need to log in and out time daily. 
-Please follow the below instructions daily during checking-in and checking-out time -
+    + Reporting Hours :: 9am-6pm (9 hrs including 1 hr lunch break). Interns
+         need to log in and out time daily. Please follow the below
+         instructions daily during checking-in and checking-out time -
 
-1. Visit http://attendence.vlabs.ac.in 
-2. On the left pane, select your name from the first drop down menu.
-3. Select in or out depending upon whether checking-in or checking-out.
-4. Type in the password. Please contact Ashay for your passwords.
-5. Click submit.
+      1. Visit http://attendence.vlabs.ac.in
+      2. On the left pane, select your name from the first drop down menu.
+      3. Select in or out depending upon whether checking-in or checking-out.
+      4. Type in the password. Please contact Ashay for your passwords.
+      5. Click submit.
  
-+ Leaves :: 
-No leaves are granted unless it is an emergency.  The approval for an emergency leave is taken from Prof. Venkatesh Choppella.
+    + Leaves :: No leaves are granted unless it is an emergency.  The approval
+         for an emergency leave is taken from Prof. Venkatesh Choppella.
 
-+ Work status reporting ::
-- Each intern should create his/her own repository named  vlabs-internship
-- Each intern should submit a daily log of work done in this [[./daily-work-log-template.org][=format=]].  
-This report should be  pushed to the individual's =vlabs-internship= repository at the end of each day.
+    + Work status reporting ::
+       - Each intern should create his/her own repository named
+         vlabs-internship
+       - Each intern should submit a daily log of work done in this [[./daily-work-log-template.org][=format=]].
+       - This report should be pushed to the individual's =vlabs-internship=
+         repository at the end of each day.
        
-+ Presentations :: 
-Each intern should make two presentations tentatively on Monday, June 13, 2016  and Thursday, July 14, 2016 on work accomplished till that point in time. 
+    + Presentations :: Each intern should make two presentations tentatively on
+         Monday, June 13, 2016 and Thursday, July 14, 2016 on work accomplished
+         till that point in time.
 
-+ Final Report :: 
-Each intern should submit a final report as a document detailing the work accomplished during the internship.
+    + Final Report :: Each intern should submit a final report as a document
+         detailing the work accomplished during the internship.
    
 
 *** Accounts and IDE setup 
 
-+ LDAP accounts ::
-Each intern would be provided an LDAP account by Ashay. This account allows creation of containers and VMs on Virtual Labs infrastructure.
-These containers are strictly to be used only for the realization of the tasks assigned to the intern.
+    + LDAP accounts :: Each intern would be provided an LDAP account by
+         Ashay. This account allows creation of containers and VMs on Virtual
+         Labs infrastructure.  These containers are strictly to be used only
+         for the realization of the tasks assigned to the intern.
 
-+ IDE setup ::
-Integrated development environment is setup on the computer.  This involves
-installing emacs, org, xchat and other packages.  Please refer to the
-[[https://github.com/vlead/vlead-onboarding/tree/develop][documentation]] for setting up this environment.
+    + IDE setup :: Integrated development environment is setup on the computer.
+         This involves installing emacs, org, xchat and other packages.  Please
+         refer to the [[https://github.com/vlead/vlead-onboarding/tree/develop][documentation]] for setting up this environment.
 
 *** Communication Channels
 
-+ Internet Relay Chat ::
-All interns should be always logged on to =#vlead= channel during the
-office hours of the internship programme.  All other engineers 
-at Virtual Labs would be also on the same channel. This [[http://www.irchelp.org/irchelp/irctutorial.html][tutorial]]
-lists all the information in using IRC for communication.
-[[http://xchat.org/][xchat]] is a chat client for IRC.
+    + Internet Relay Chat :: All interns should be always logged on to =#vlead=
+         channel during the office hours of the internship programme.  All
+         other engineers at Virtual Labs would be also on the same
+         channel. This [[http://www.irchelp.org/irchelp/irctutorial.html][tutorial]] lists all the information in using IRC for
+         communication.  [[http://xchat.org/][xchat]] is a chat client for IRC.
 
-+ Mailing List ::
+    + Mailing List ::
 
-1. =2016-summer-interns@vlabs.ac.in= should be used for email communication either
-between the interns or with the Virtual Labs staff. This list is for
-co-ordination, allocation of tasks etc.
+      1. =2016-summer-interns@vlabs.ac.in= should be used for email
+         communication either between the interns or with the Virtual Labs
+         staff. This list is for co-ordination, allocation of tasks etc.
 
-2. All technically related conversation should be done using [[http://vlabs.ac.in/engineers][=engineers=]] mailing
-list. This list is publicly [[http://vlabs.ac.in/engineers][=accessed=]].  Please subscribe to this group
-and ensure =engineers@vlabs.ac.in= is copied for a wider audience.
+     2. All technically related conversation should be done using [[http://vlabs.ac.in/engineers][=engineers=]]
+        mailing list. This list is publicly [[http://vlabs.ac.in/engineers][=accessed=]].  Please subscribe to
+        this group and ensure =engineers@vlabs.ac.in= is copied for a wider audience.
  
 * Boot Camp
 
@@ -202,5 +211,3 @@ and ensure =engineers@vlabs.ac.in= is copied for a wider audience.
   |                  | Assignment on Javascript           |    14:00 | 17:00 |                |
   |------------------+------------------------------------+----------+-------+----------------|
 
-   
-  
