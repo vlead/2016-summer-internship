@@ -115,7 +115,7 @@ Architecture Division (VLEAD), IIIT Hyderabad from 16-05-2016 to 15-07-2016.
          need to log in and out time daily. Please follow the below
          instructions daily during checking-in and checking-out time -
 
-      1. Visit http://attendence.vlabs.ac.in
+      1. Visit http://attendance.vlabs.ac.in
       2. On the left pane, select your name from the first drop down menu.
       3. Select in or out depending upon whether checking-in or checking-out.
       4. Type in the password. Please contact Ashay for your passwords.
