@@ -60,7 +60,7 @@ Architecture Division (VLEAD), IIIT Hyderabad from 16-05-2016 to 15-07-2016.
    |-------+-------------------------------+-------------------------------------+------------+----------+-----------------+------------------------------------------|
    |    5. | Ammanamanchi Namratha Deepthi | NITK, B.Tech, IT, II Year           | [[https://github.com/namrathadeepthi/][link]]       |          | Integration     | Lalit                                    |
    |-------+-------------------------------+-------------------------------------+------------+----------+-----------------+------------------------------------------|
-   |    6. | Rama Shanbhag                 | NITK, B.Tech, IT, I Year            | [[https://github.com/Ramas31][link]]       |          | Integratiom     | Lalit                                    |
+   |    6. | Rama Shanbhag                 | NITK, B.Tech, IT, II Year           | [[https://github.com/Ramas31][link]]       |          | Integratiom     | Lalit                                    |
    |-------+-------------------------------+-------------------------------------+------------+----------+-----------------+------------------------------------------|
    |    7. | Harsha Vattem                 | IIT KGP, B.Tech, CSE, I Year        | [[https://github.com/harshavattem][link]]       |          | Javascript      | Prof. Venkatesh Choppella                |
    |-------+-------------------------------+-------------------------------------+------------+----------+-----------------+------------------------------------------|
@@ -70,25 +70,26 @@ Architecture Division (VLEAD), IIIT Hyderabad from 16-05-2016 to 15-07-2016.
    |-------+-------------------------------+-------------------------------------+------------+----------+-----------------+------------------------------------------|
    |   10. | Ian Galvin Fernandes          | MEC, B.Tech, CSE, II Year           | [[https://github.com/iangfernandes96][link]]       |          | Big Data        | Devi Prasad                              |
    |-------+-------------------------------+-------------------------------------+------------+----------+-----------------+------------------------------------------|
-   |   11. | Kavya Atmakuri                | NITK, B.Tech, CSE, II Year          | [[https://github.com/kavya-a][link]]       |          | Authentication  | [[https://github.com/travula][Thirumal]]                                 |
+   |   11. | Jahanvi Ayyanik               | NIT, Rourkela                       | [[https://github.com/jahnavi925][link]]       |          | Docker          | Shiv Shankar                             |
    |-------+-------------------------------+-------------------------------------+------------+----------+-----------------+------------------------------------------|
-   |   12. | Varsha Dyavaiah               | NITK, B.Tech, CSE, II Year          | [[https://github.com/varshadyavaiah][link]]       |          | Big Data        | Devi Prasad                              |
-   |-------+-------------------------------+-------------------------------------+------------+----------+-----------------+------------------------------------------|
-   |   13. | Jahanvi Ayyanik               | NIT, Rourkela                       | [[https://github.com/jahnavi925][link]]       |          | Docker          | Shiv Shankar                             |
-   |-------+-------------------------------+-------------------------------------+------------+----------+-----------------+------------------------------------------|
-   |   14. | Meghana Bandaru               | NIT, Durgapur                       | [[https://github.com/MeghanaBandaru][link]]       |          | AWS Lambda      | Sripathi Kammari                         |
+   |   12. | Meghana Bandaru               | NIT, Durgapur                       | [[https://github.com/MeghanaBandaru][link]]       |          | AWS Lambda      | Sripathi Kammari                         |
    |-------+-------------------------------+-------------------------------------+------------+----------+-----------------+------------------------------------------|
  
 ** Logistics
 *** Accommodation
-    Accommodation will be arranged in the IIIT-H hostels for all the interns
-    who have requested for boarding facilities.
+    Accommodation is arranged in the IIIT-H hostels for all the interns who
+    have requested for boarding facilities.  When you arrive, head to the
+    respective hostel and mention =VLEAD summer internship program= for the
+    allocation of room.  Each intern will have to pay a security deposit of Rs
+    4000/- as a demand draft drawn in favour of "IIIT-H" and hand over to
+    hostel office within 2-3 days as a security deposit.
+
     + Contact Details :: For all logistics inquiries, the contact person is
       B. Sravanthi and she can be reached at 040-66531592.
       - Name: Hostel Admins
       - Phone: 040-6653-1288 ( Bakul Nivas, Boys Hostel)
       - Phone: 040-6653-1173 ( Parul Nivas, Girls Hostel)
-
+        
 *** Dining
     There are multiple canteens and messes that serve breakfast, snacks, lunch
     and dinner inside campus.  Also other options available in the
@@ -109,20 +110,19 @@ Architecture Division (VLEAD), IIIT Hyderabad from 16-05-2016 to 15-07-2016.
          for an emergency leave is taken from Prof. Venkatesh Choppella.
 
     + Work status reporting ::
-       - Each intern should create his/her own repository named
+       - Each intern creates his/her own repository named
          vlabs-internship
-       - Each intern should submit a daily log of work done in this [[./daily-work-log-template.org][=format=]].
-       - This report should be pushed to the individual's =vlabs-internship=
+       - Each intern submits a daily log of work done in this [[./daily-work-log-template.org][=format=]].
+       - This report is pushed to the individual's =vlabs-internship=
          repository at the end of each day.
        
-    + Presentations :: Each intern should make two presentations tentatively on
+    + Presentations :: Each intern makes two presentations tentatively on
          Monday, June 13, 2016 and Thursday, July 14, 2016 on work accomplished
          till that point in time.
 
-    + Final Report :: Each intern should submit a final report as a document
+    + Final Report :: Each intern submits a final report as a document
          detailing the work accomplished during the internship.
    
-
 *** Accounts and IDE setup 
 
     + LDAP accounts :: Each intern would be provided an LDAP account by
