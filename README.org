@@ -8,5 +8,6 @@
 
 * Pit Shop for all Interns
 
-  This repository will hold information to help interns to get on-board to
-  Virtual Labs processes, practices,
+  This repository will hold information to help interns with getting started
+  with the internship program
+
