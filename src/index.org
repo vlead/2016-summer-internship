@@ -76,20 +76,37 @@ Architecture Division (VLEAD), IIIT Hyderabad from 16-05-2016 to 15-07-2016.
    |-------+-------------------------------+-------------------------------------+------------+----------+-----------------+------------------------------------------|
  
 ** Logistics
-*** Accommodation
-    Accommodation is arranged in the IIIT-H hostels for all the interns who
-    have requested for boarding facilities.  When you arrive, head to the
-    respective hostel and mention =VLEAD summer internship program= for the
-    allocation of room.  Each intern will have to pay a security deposit of Rs
-    4000/- as a demand draft drawn in favour of "IIIT-H" and hand over to
-    hostel office within 2-3 days as a security deposit.
+    
+   Contact Details :: For all logistics inquiries, the contact person is
+   B. Sravanthi and she can be reached at 040-66531592.
 
-    + Contact Details :: For all logistics inquiries, the contact person is
-      B. Sravanthi and she can be reached at 040-66531592.
-      - Name: Hostel Admins
-      - Phone: 040-6653-1288 ( Bakul Nivas, Boys Hostel)
-      - Phone: 040-6653-1173 ( Parul Nivas, Girls Hostel)
-        
+*** Accommodation
+
+    |-------------+--------+----------------|    
+    | Hostel Name | Gender | Contact Number |
+    |-------------+--------+----------------|
+    | Bakul       | Make   |  040-6653-1288 |
+    |-------------+--------+----------------|
+    | Parul       | Female |  040-6653-1173 |
+    |-------------+--------+----------------|
+
+
+    Accommodation will be arranged in the IIIT-H hostels for all the interns
+    who have requested for boarding facilities. On arrival boys should proceed
+    to Bakul Nivas hostel and girls to Parul Nivas Hostel. On stating their
+    name to the respective hostel security ,they will be assigned a hostel room
+    on a shared basis( 2 students/room). They will need to pay Rs. 4000 through
+    a DD drawn in favour of "IIIT-H" and hand over the same to the respective
+    hostel warden within 2-3 days of arrival. This would be towards their
+    hostel rent for the first month @ Rs.4000/- per month per person excluding
+    food charges which needs to be paid separately. They can get this amount
+    reimbursed by submitting the receipts to Ms. Pushpalatha who is the admin
+    in-charge for SERC (B5-204).  The dining charges @Rs.120/- per day (BF:30,
+    Lunch: 45, Dinner:45) is to be paid by the student directly to mess where
+    he or she eats. However,they can get maximum Rs. 3000 reimbursed every
+    month towards dining against mess receipts.
+
+
 *** Dining
     There are multiple canteens and messes that serve breakfast, snacks, lunch
     and dinner inside campus.  Also other options available in the
@@ -100,7 +117,7 @@ Architecture Division (VLEAD), IIIT Hyderabad from 16-05-2016 to 15-07-2016.
          need to log in and out time daily. Please follow the below
          instructions daily during checking-in and checking-out time -
 
-      1. Visit http://attendence.vlabs.ac.in
+      1. Visit http://attendance.vlabs.ac.in
       2. On the left pane, select your name from the first drop down menu.
       3. Select in or out depending upon whether checking-in or checking-out.
       4. Type in the password. Please contact Ashay for your passwords.
