@@ -175,11 +175,11 @@ Architecture Division (VLEAD), IIIT Hyderabad from 16-05-2016 to 15-07-2016.
 * Boot Camp
 
   During the boot camp, the interns will be given an overview of the tools used
-  for development - editor(emacs), authoring(org) and version control(git) and
-  help in setting the laptops with this development environment.
+  for development - editor(emacs), authoring(org) and version control(git) and will be
+  helped in setting the laptops with this development environment.
 
   The processes - git hub development work flow, literate programming and
-  technologies - javascript, python, mysql, virtualization exposed to the
+  technologies - javascript, python, mysql, virtualization will be exposed to the
   students by building an application involving all the above stated key words.
 
   
