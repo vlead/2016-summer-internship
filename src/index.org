@@ -3,7 +3,7 @@
 #+DATE: [2016-04-27 Wed]
 #+PROPERTY: results output
 #+PROPERTY: exports code
-#+SETUPFILE: ../org-templates/level-0.org
+#+SETUPFILE: ./org-templates/level-0.org
 #+OPTIONS: ^:nil
 
 
@@ -228,7 +228,7 @@ Architecture Division (VLEAD), IIIT Hyderabad from 16-05-2016 to 15-07-2016.
   |                  | Development of Application             |          |       |                 |
   |                  | Continued                              |          |       |                 |
   |------------------+----------------------------------------+----------+-------+-----------------|
-  | [2016-05-20 Fri] | Javascript and                         |    09:00 | 13:00 |                 |
+  | [2016-05-19 Thu] | Javascript and                         |    09:00 | 13:00 |                 |
   |                  | Development of Front End               |          |       |                 |
   |------------------+----------------------------------------+----------+-------+-----------------|
   |                  | Lunch                                  |    13:00 | 14:00 |                 |
@@ -240,7 +240,7 @@ Architecture Division (VLEAD), IIIT Hyderabad from 16-05-2016 to 15-07-2016.
   |                  | Development of Application             |          |       |                 |
   |                  | Continued                              |          |       |                 |
   |------------------+----------------------------------------+----------+-------+-----------------|
-  | [2016-05-19 Thu] | Deployment and Virtualization          |    09:00 | 13:00 | Prof Venkatesh  |
+  | [2016-05-20 Fri] | Deployment and Virtualization          |    09:00 | 13:00 | Prof Venkatesh  |
   |------------------+----------------------------------------+----------+-------+-----------------|
   |                  | Lunch                                  |    13:00 | 14:00 |                 |
   |------------------+----------------------------------------+----------+-------+-----------------|
