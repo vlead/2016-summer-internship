@@ -22,8 +22,10 @@ Architecture Division (VLEAD), IIIT Hyderabad from 16-05-2016 to 15-07-2016.
 * Program Details
 ** Venue, Date and Time
    + Venue - Virtual Labs Engineering and Architecture Division (VLEAD),
-     IIIT-Hyderabad
+     B6-204, Vindhya C6, IIIT, Hyderabad
+
    + Start Date - 16-05-2016
+
    + End Date - 15-07-2016.
 
 ** Program Aims 
@@ -204,7 +206,7 @@ Architecture Division (VLEAD), IIIT Hyderabad from 16-05-2016 to 15-07-2016.
   |                  | Daily Report Submission                |    17:00 | 17:15 |                 |
   |------------------+----------------------------------------+----------+-------+-----------------|
   |                  |                                        |          |       |                 |
-  |                  | Development of an Application          |          |       |                 |
+  |                  | Development of Application - Part I    |          |       |                 |
   |------------------+----------------------------------------+----------+-------+-----------------|
   | [2016-05-17 Tue] | Requirement Gathering                  |    09:00 | 13:00 |                 |
   |------------------+----------------------------------------+----------+-------+-----------------|
@@ -213,8 +215,7 @@ Architecture Division (VLEAD), IIIT Hyderabad from 16-05-2016 to 15-07-2016.
   |                  | Data Modelling                         |    14:00 | 17:00 |                 |
   |------------------+----------------------------------------+----------+-------+-----------------|
   |                  |                                        |          |       |                 |
-  |                  | Development of Application             |          |       |                 |
-  |                  | Continued                              |          |       |                 |
+  |                  | Development of Application - Part II   |          |       |                 |
   |------------------+----------------------------------------+----------+-------+-----------------|
   | [2016-05-18 Wed] | Python and                             |    09:00 | 13:00 |                 |
   |                  | Development of Object Relational Model |          |       |                 |
@@ -225,8 +226,7 @@ Architecture Division (VLEAD), IIIT Hyderabad from 16-05-2016 to 15-07-2016.
   |                  | Development of Rest API                |          |       |                 |
   |------------------+----------------------------------------+----------+-------+-----------------|
   |                  |                                        |          |       |                 |
-  |                  | Development of Application             |          |       |                 |
-  |                  | Continued                              |          |       |                 |
+  |                  | Development of Application - Part III  |          |       |                 |
   |------------------+----------------------------------------+----------+-------+-----------------|
   | [2016-05-19 Thu] | Javascript and                         |    09:00 | 13:00 |                 |
   |                  | Development of Front End               |          |       |                 |
@@ -237,8 +237,7 @@ Architecture Division (VLEAD), IIIT Hyderabad from 16-05-2016 to 15-07-2016.
   |                  | Development of Front End               |          |       |                 |
   |------------------+----------------------------------------+----------+-------+-----------------|
   |                  |                                        |          |       |                 |
-  |                  | Development of Application             |          |       |                 |
-  |                  | Continued                              |          |       |                 |
+  |                  | Development of Application - Part IV   |          |       |                 |
   |------------------+----------------------------------------+----------+-------+-----------------|
   | [2016-05-20 Fri] | Deployment and Virtualization          |    09:00 | 13:00 | Prof Venkatesh  |
   |------------------+----------------------------------------+----------+-------+-----------------|
